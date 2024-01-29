@@ -139,8 +139,6 @@ python manage.py runserver
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/3c7d12b14dc341f781bbd1ee0693f3cc.png)
 
 
-[]()
-
 ## 结语
 
 在本篇文章中，我们介绍了 Django 框架的基础知识。我们了解了 Django 的特性、安装过程、项目和应用程序的创建，以及视图函数和 URL 映射的配置。希望这篇文章能够帮助您入门 Django 开发，并为您构建高效、可扩展的 Web 应用程序提供指导。
@@ -153,3 +151,5 @@ python manage.py runserver
 
 - [Django 官方网站](https://www.djangoproject.com/)
 - [Django 文档](https://docs.djangoproject.com/)
+
+[博客地址](https://blog.csdn.net/qq_42751010/article/details/135917285)
